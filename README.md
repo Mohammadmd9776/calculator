@@ -2,5 +2,5 @@
 
 ## Available Scripts
 
-In the project directory, you can run:calculator
+<img src="./public/Screenshot.png" alt="Alt text" title="Optional title">
 
